@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "license": "NO LIC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "fastify-logging-context-test",
+  "dependencies": {
+    "fastify": "^2.2.0",
+    "fastify-plugin": "^1.5.0",
+    "node-request-context": "^1.0.5",
+    "pino": "^5.12.2",
+    "uuid": "^3.3.2"
+  }
+}
